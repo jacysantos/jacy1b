@@ -1,5 +1,5 @@
 # jacy1b
-#czcpensamento1b2022
+#CZCpensamento1b2022
 
 Um parágrafo da descrição do projeto vai aqui
 
